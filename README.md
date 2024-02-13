@@ -4,7 +4,7 @@
 
 </div>
 
-Tracks the current maintainers of [repositories in the "leptos-community" Github organization](https://github.com/orgs/leptos-community/repositories)
+Tracks the current maintainers of [repositories in the "leptos-community" Github organization](https://github.com/orgs/leptos-community/repositories?q=sort%3Aname-asc)
 
 
 | Repo | Repo Maintainer's Github Username | Repo Maintainer's Username in the  [Leptos Discord](https://discord.gg/x8NhWWYTV2) |
