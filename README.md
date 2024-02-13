@@ -1,6 +1,6 @@
 <div align=center>
 
-# Leptos Community Project Maintainers
+# Leptos Community Repository Contributors & Maintainers
 
 </div>
 
