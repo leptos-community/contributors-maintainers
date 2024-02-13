@@ -11,7 +11,7 @@ Tracks the current maintainers of [repositories in the "leptos-community" Github
 | ---- | ---- | ---- |
 | [meetups](https://github.com/leptos-community/meetups) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [blog](https://github.com/leptos-community/blog) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
-| [csr-examples](https://github.com/leptos-community/csr-examples) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
+| [csr-example-building-UIs-with-leptos](https://github.com/leptos-community/csr-example-building-UIs-with-leptos) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [deployment-csr-spin](https://github.com/leptos-community/deployment-csr-spin) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [deployment-csr-vercel](https://github.com/leptos-community/deployment-csr-vercel) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [deployment-ssr-shuttle](https://github.com/leptos-community/deployment-ssr-shuttle) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
