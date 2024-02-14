@@ -7,6 +7,9 @@
 Tracks the current maintainers of [repositories in the "leptos-community" Github organization](https://github.com/orgs/leptos-community/repositories?q=sort%3Aname-asc)
 
 
+<br/>
+
+
 | Repo | Repo Maintainer's Github Username | Repo Maintainer's Username in the  [Leptos Discord](https://discord.gg/x8NhWWYTV2) |
 | ---- | ---- | ---- |
 | [meetups](https://github.com/leptos-community/meetups) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
@@ -16,5 +19,4 @@ Tracks the current maintainers of [repositories in the "leptos-community" Github
 | [deployment-csr-vercel](https://github.com/leptos-community/deployment-csr-vercel) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [deployment-ssr-shuttle](https://github.com/leptos-community/deployment-ssr-shuttle) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
 | [deployment-deno](https://github.com/leptos-community/deployment-deno) | [diversable](https://github.com/diversable) | diversable (@divers_able) |
-| [leptos_supabase_example](https://github.com/leptos-community/leptos_supabase_example) | [mahdi739](https://github.com/mahdi739) | Mahdi (@Mahdi_739) |
-
+| [csr-example-leptos-supabase](https://github.com/leptos-community/csr-example-leptos-supabase) | [mahdi739](https://github.com/mahdi739) | Mahdi (@Mahdi_739) |
